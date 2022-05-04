@@ -1,4 +1,4 @@
-Hi 👋 Eu sou o Alexx Harper
+Olá 👋 Eu sou o Alexx Harper
 =============================
 
 Desenvolvedor Front-end & Mobile
