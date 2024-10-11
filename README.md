@@ -1,16 +1,15 @@
 Olá 👋 Eu sou o Alexx Moreira
 =============================
 
-Desenvolvedor Front-end & Mobile
+Desenvolvedor Web & Mobile
 -------------------------------- 
 
 Eu estudo conteúdo sobre programação desde os meus 14 anos, sempre procurando algo para aprender, o que acabou mais atrapalhando do que ajudando. Mas finalmente me encontrei. Depois de conhecer as tecnologias React JS e React Native a minha percepção mudou totalmente, foi amor ao primeiro código. Tive contato com NodeJS mas não consigo gostar tanto de Back-end quanto gosto de Front/Mobile, e estou sempre buscando projetos para aperfeiçoar minhas habilidades.
 
 * 🌍  Eu sou de São Paulo - SP
-* 🖥️  Veja meu site/portfólio em [Alexx Harper Page](http://devalexxharper.github.io/)
 * ✉️  Pode me contatar pelo [alexxharperbr@icloud.com](mailto:alexxharperbr@icloud.com)
 * 🧠  Atualmente estudando NextJS
-* 🎮  Da um Alô na Xbox Live: HarperBr3264
+* 🎮  Da um Alô na Xbox Live: xHarper98
 
 ### Skills
 
